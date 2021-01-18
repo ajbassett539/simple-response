@@ -1,0 +1,16 @@
+{
+    "name": "ajbassett539/simple-response",
+    "description": "Simple Object to Easily Create JSON Output",
+    "type": "library",
+    "license": "GNU",
+    "authors": [{
+        "name": "Alexandra",
+        "email": "ajbassett539@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "SimpleResponse\\": "src/"
+        }
+    },
+    "require": {}
+}
